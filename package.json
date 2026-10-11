@@ -1,0 +1,12 @@
+{
+  "name": "liberal-bot",
+  "version": "1.0.0",
+  "description": "Discord status and welcome bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0"
+  }
+}
